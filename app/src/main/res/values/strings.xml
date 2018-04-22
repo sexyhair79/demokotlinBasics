@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">demokotlinvar</string>
+
+    <string name="btn_function">for循环遍历集合Set</string>
+    <string name="btn_function2">forEach循环遍历集合Set</string>
+    <string name="btn_function3">iterator循环遍历集合Set</string>
+    <string name="btn_function4">队列的升序排列</string>
+    <string name="btn_function5">下标遍历队列</string>
+    <string name="btn_function6">映射的声明初始化和遍历</string>
+    <string name="btn_function7">映射的添加元素</string>
+
+    <string name="btn_collection">关于容器的Demo</string>
+
+    <string name="btn_control1">ifelse语句</string>
+    <string name="btn_control2">when/else语句</string>
+    <string name="btn_control3">while循环完成条件for循环</string>
+
+
+    <string name="btn_main_var">demo_常量</string>
+    <string name="btn_main_collect">demo_容器</string>
+    <string name="btn_main_control">demo_控制语句</string>
+    <string name="btn_main_fun">demo_函数</string>
+    <string name="btn_main_class">demo_类和对象</string>
+
+    <string name="btn_main_view">demo_Kotlin使用View</string>
+
+    <string name="btn_view_clickNoName">demo_view的点击长按时间之匿名函数</string>
+    <string name="btn_view_clickClass">demo_view的点击长按时间之内部类</string>
+    <string name="btn_view_clicInterface">demo_view的点击长按时间之接口</string>
+
+
+
+    <string name="view_textTwinkle">跑马灯效果跑马灯效果跑马灯效果跑马灯效果跑马灯效果跑马灯效果跑马灯效果跑马灯效果马灯效果马灯效果马灯效果马灯效果马灯效果</string>
+</resources>
